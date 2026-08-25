@@ -92,7 +92,7 @@ a { color: inherit; }
   align-items: center;
   gap: 12px;
 }
-.wordmark-icon { height: 34px; width: auto; display: block; }
+.wordmark-icon { height: 42px; width: auto; display: block; }
 .wordmark-text { display: flex; align-items: baseline; gap: 10px; }
 .wordmark-sub {
   font-family: var(--sans);
